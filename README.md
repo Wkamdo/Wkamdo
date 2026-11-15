@@ -12,18 +12,18 @@
 
 ## About
 
-I'm an Information Systems student in Indonesia. Most of my time goes to the terminal: WSL2 on Windows,
-Docker for anything that needs to live side by side, and Python for working with data.
+Information Systems student in Indonesia. Most of my time goes to the terminal — WSL2 on
+Windows, Docker for anything that should not touch my host, and PHP/Laravel or React when
+something has to look like a finished app.
 
-- **Working on:** my thesis (still in progress)
-- **Daily drivers:** WSL2 · Docker · Python · MySQL · Git
-- **I like:** reproducibility, clean data splits, and results anyone can re-check
-- **I don't like:** numbers with no traceable origin
+- **Working on:** my thesis, still in progress
+- **Ask me about:** Docker on WSL, or why yesterday's working setup stopped working
+- **Reach me:** Discord DM is the fastest (link at the bottom)
 
 ## Toolbox
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,tensorflow,docker,linux,bash,git,mysql,php,vscode&theme=dark" alt="stack">
+<img src="https://skillicons.dev/icons?i=php,python,laravel,react,mysql,docker,linux,git,bash,vscode&theme=dark" alt="stack">
 </div>
 
 ## Stats
@@ -57,7 +57,7 @@ Docker for anything that needs to live side by side, and Python for working with
 The repositories below are **shared coursework**, not personal projects. They hold submissions
 from the whole class (mine included), so I neither modify them nor claim them as my own work:
 
-| Repositori | Mata kuliah |
+| Repository | Course |
 |---|---|
 | [pemrograman-bergerak-4C-2024](https://github.com/Wkamdo/pemrograman-bergerak-4C-2024) | Mobile programming — pull-request practice, one folder per student |
 | [sistem-manajemen-basis-data-4B-2024](https://github.com/Wkamdo/sistem-manajemen-basis-data-4B-2024) | Database management systems — folders `modul-1` to `modul-7` |
