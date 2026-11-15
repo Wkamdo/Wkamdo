@@ -41,10 +41,7 @@ Docker untuk apa pun yang perlu hidup berdampingan, dan Python untuk mengolah da
 
 <img src="https://streak-stats.demolab.com?user=Wkamdo&theme=github-dark-blue&hide_border=true&background=0D1117" alt="streak">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wkamdo/Wkamdo/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Wkamdo/Wkamdo/output/github-contribution-grid-snake.svg" alt="contribution snake">
-</picture>
+<!-- contribution snake: aktifkan dulu workflow .github/workflows/snake.yml -->
 
 </div>
 
