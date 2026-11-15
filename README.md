@@ -2,7 +2,7 @@
 
 <img src="assets/banner.gif" alt="Wkamdo" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Information+Systems+student+in+Indonesia;Linux+%26+WSL2+%2B+Docker+everyday+driver;Python+for+data%2C+PHP+when+the+web+needs+it;Currently%3A+multi-class+skin-lesion+classification+(EfficientNetB4)" alt="typing"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Information+Systems+student+in+Indonesia;Linux+%26+WSL2+%2B+Docker+everyday+driver;Python+for+data%2C+PHP+when+the+web+needs+it;Currently%3A+writing+my+thesis+(work+in+progress)" alt="typing"></a>
 
 <a href="https://discord.com/users/512213893054070785"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://github.com/Wkamdo?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"></a>
@@ -12,13 +12,13 @@
 
 ## About
 
-Saya mahasiswa Sistem Informasi di Indonesia. Sebagian besar waktu habis di terminal: WSL2 di Windows,
-Docker untuk apa pun yang perlu hidup berdampingan, dan Python untuk mengolah data.
+I'm an Information Systems student in Indonesia. Most of my time goes to the terminal: WSL2 on Windows,
+Docker for anything that needs to live side by side, and Python for working with data.
 
-- **Sedang dikerjakan:** skripsi klasifikasi multi-kelas lesi kulit (EfficientNetB4 + HAM10000, 7 kelas, 45 run dengan 9 seed)
-- **Sehari-hari pakai:** WSL2 · Docker · Python · MySQL · Git
-- **Menyukai:** reproduksibilitas, split data yang bersih, dan hasil yang bisa diverifikasi ulang tanpa pelatihan ulang
-- **Tidak menyukai:** angka yang tidak bisa ditelusuri asalnya
+- **Working on:** my thesis (still in progress)
+- **Daily drivers:** WSL2 · Docker · Python · MySQL · Git
+- **I like:** reproducibility, clean data splits, and results anyone can re-check
+- **I don't like:** numbers with no traceable origin
 
 ## Toolbox
 
@@ -49,25 +49,24 @@ Docker untuk apa pun yang perlu hidup berdampingan, dan Python untuk mengolah da
 
 | Proyek | Isi |
 |---|---|
-| **Skripsi — klasifikasi lesi kulit** | EfficientNetB4 + HAM10000, 7 kelas, 45 run (5 skenario x 9 seed), split level lesi yang dibekukan. Repositori dibuka setelah sidang. |
-| [Program-menghitung-volume-Balok-dan-Kubus](https://github.com/Wkamdo/Program-menghitung-volume-Balok-dan-Kubus) | Latihan awal Python: dari dua skrip sederhana sampai versi ber-fungsi dengan validasi masukan dan uji unit (`unittest`). |
+| **Thesis** | Work in progress — repository opens after the defense. |
+| [Program-menghitung-volume-Balok-dan-Kubus](https://github.com/Wkamdo/Program-menghitung-volume-Balok-dan-Kubus) | First Python exercise, later cleaned up: two plain scripts, then a version with functions, input validation and `unittest` tests. |
 
 ## Coursework
 
-Repositori di bawah ini adalah **tugas mata kuliah bersama**, bukan proyek pribadi. Isinya
-kiriman seluruh kelas (termasuk milik saya), jadi saya tidak mengubah atau mengklaimnya
-sebagai karya sendiri:
+The repositories below are **shared coursework**, not personal projects. They hold submissions
+from the whole class (mine included), so I neither modify them nor claim them as my own work:
 
 | Repositori | Mata kuliah |
 |---|---|
-| [pemrograman-bergerak-4C-2024](https://github.com/Wkamdo/pemrograman-bergerak-4C-2024) | Pemrograman bergerak — wadah latihan pull request per mahasiswa |
-| [sistem-manajemen-basis-data-4B-2024](https://github.com/Wkamdo/sistem-manajemen-basis-data-4B-2024) | Sistem manajemen basis data — folder `modul-1` s.d. `modul-7` |
+| [pemrograman-bergerak-4C-2024](https://github.com/Wkamdo/pemrograman-bergerak-4C-2024) | Mobile programming — pull-request practice, one folder per student |
+| [sistem-manajemen-basis-data-4B-2024](https://github.com/Wkamdo/sistem-manajemen-basis-data-4B-2024) | Database management systems — folders `modul-1` to `modul-7` |
 
 ## Reach me
 
-- **Discord:** [kirim DM](https://discord.com/users/512213893054070785) — paling cepat dibalas
+- **Discord:** [send a DM](https://discord.com/users/512213893054070785) — fastest way to reach me
 - **GitHub:** [github.com/Wkamdo](https://github.com/Wkamdo)
-- **Lokasi:** Indonesia (WIB / UTC+7)
+- **Lokasi:** Indonesia (WIB / UTC+7)  <!-- satu baris Indonesia, sisanya Inggris -->
 
 <div align="center">
 

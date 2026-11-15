@@ -26,7 +26,7 @@ ASSETS = os.path.join(AKAR, "assets")
 NAMA = "WKAMDO"
 TAGLINE = "Information Systems student  ·  Linux & WSL2  ·  Docker  ·  Python"
 BARIS = [
-    "thesis: skin-lesion classification (EfficientNetB4, 7 classes)",
+    "currently: thesis, work in progress",
     "usually found in: terminal, docker-compose, and error logs",
 ]
 
