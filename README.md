@@ -2,7 +2,7 @@
 
 <img src="assets/banner.gif" alt="Wkamdo" width="100%">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=IT+student+in+Indonesia;Linux+%26+WSL2+%2B+Docker+everyday+driver;Python+for+data%2C+PHP+when+the+web+needs+it;Currently%3A+multi-class+skin-lesion+classification+(EfficientNetB4)" alt="typing"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Information+Systems+student+in+Indonesia;Linux+%26+WSL2+%2B+Docker+everyday+driver;Python+for+data%2C+PHP+when+the+web+needs+it;Currently%3A+multi-class+skin-lesion+classification+(EfficientNetB4)" alt="typing"></a>
 
 <a href="https://discord.com/users/512213893054070785"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://github.com/Wkamdo?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"></a>
@@ -12,7 +12,7 @@
 
 ## About
 
-Saya mahasiswa IT di Indonesia. Sebagian besar waktu habis di terminal: WSL2 di Windows,
+Saya mahasiswa Sistem Informasi di Indonesia. Sebagian besar waktu habis di terminal: WSL2 di Windows,
 Docker untuk apa pun yang perlu hidup berdampingan, dan Python untuk mengolah data.
 
 - **Sedang dikerjakan:** skripsi klasifikasi multi-kelas lesi kulit (EfficientNetB4 + HAM10000, 7 kelas, 45 run dengan 9 seed)
@@ -45,14 +45,23 @@ Docker untuk apa pun yang perlu hidup berdampingan, dan Python untuk mengolah da
 
 </div>
 
-## Selected work
+## What I build
 
-| Repositori | Isi |
+| Proyek | Isi |
 |---|---|
-| [pemrograman-bergerak-4C-2024](https://github.com/Wkamdo/pemrograman-bergerak-4C-2024) | Tugas kuliah pemrograman mobile |
-| [sistem-manajemen-basis-data-4B-2024](https://github.com/Wkamdo/sistem-manajemen-basis-data-4B-2024) | Basis data: perancangan dan implementasi |
-| KP *(kerja praktik)* | Repositori privat — tidak ditautkan |
-| [Program-menghitung-volume-Balok-dan-Kubus](https://github.com/Wkamdo/Program-menghitung-volume-Balok-dan-Kubus) | Latihan dasar, masih berguna untuk mengingat sintaks |
+| **Skripsi — klasifikasi lesi kulit** | EfficientNetB4 + HAM10000, 7 kelas, 45 run (5 skenario x 9 seed), split level lesi yang dibekukan. Repositori dibuka setelah sidang. |
+| [Program-menghitung-volume-Balok-dan-Kubus](https://github.com/Wkamdo/Program-menghitung-volume-Balok-dan-Kubus) | Latihan awal Python: dari dua skrip sederhana sampai versi ber-fungsi dengan validasi masukan dan uji unit (`unittest`). |
+
+## Coursework
+
+Repositori di bawah ini adalah **tugas mata kuliah bersama**, bukan proyek pribadi. Isinya
+kiriman seluruh kelas (termasuk milik saya), jadi saya tidak mengubah atau mengklaimnya
+sebagai karya sendiri:
+
+| Repositori | Mata kuliah |
+|---|---|
+| [pemrograman-bergerak-4C-2024](https://github.com/Wkamdo/pemrograman-bergerak-4C-2024) | Pemrograman bergerak — wadah latihan pull request per mahasiswa |
+| [sistem-manajemen-basis-data-4B-2024](https://github.com/Wkamdo/sistem-manajemen-basis-data-4B-2024) | Sistem manajemen basis data — folder `modul-1` s.d. `modul-7` |
 
 ## Reach me
 

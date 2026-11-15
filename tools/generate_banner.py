@@ -24,7 +24,7 @@ AKAR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ASSETS = os.path.join(AKAR, "assets")
 
 NAMA = "WKAMDO"
-TAGLINE = "IT student  ·  Linux & WSL2  ·  Docker  ·  Python"
+TAGLINE = "Information Systems student  ·  Linux & WSL2  ·  Docker  ·  Python"
 BARIS = [
     "thesis: skin-lesion classification (EfficientNetB4, 7 classes)",
     "usually found in: terminal, docker-compose, and error logs",
