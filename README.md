@@ -51,7 +51,7 @@ Docker untuk apa pun yang perlu hidup berdampingan, dan Python untuk mengolah da
 |---|---|
 | [pemrograman-bergerak-4C-2024](https://github.com/Wkamdo/pemrograman-bergerak-4C-2024) | Tugas kuliah pemrograman mobile |
 | [sistem-manajemen-basis-data-4B-2024](https://github.com/Wkamdo/sistem-manajemen-basis-data-4B-2024) | Basis data: perancangan dan implementasi |
-| [KP](https://github.com/Wkamdo/KP) | Kerja praktik |
+| KP *(kerja praktik)* | Repositori privat — tidak ditautkan |
 | [Program-menghitung-volume-Balok-dan-Kubus](https://github.com/Wkamdo/Program-menghitung-volume-Balok-dan-Kubus) | Latihan dasar, masih berguna untuk mengingat sintaks |
 
 ## Reach me
